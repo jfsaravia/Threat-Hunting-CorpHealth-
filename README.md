@@ -1,3 +1,5 @@
+<img width="800" height="300" alt="CorpHealth" src="https://github.com/user-attachments/assets/6c342dcd-65d3-41be-9e5a-c0dab32c33a0" />
+
 # Threat Hunt Report (CorpHealth Traceback)
 
 ## Scenario
