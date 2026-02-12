@@ -1,6 +1,7 @@
 # Threat Hunt Report (CorpHealth Traceback)
 
 ## Scenario
+[Scenario Creation](https://github.com/jfsaravia/Threat-Hunting-CorpHealth-/blob/main/CorpHealth-Scenario.md)
 
 During the mid-November maintenance window, routine CorpHealth activity on the operations workstation CH-OPS-WKS02 initially appeared normal (health checks, scheduled runs, configuration updates, and inventory sync). Deeper review showed multiple anomalies:
 
